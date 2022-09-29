@@ -1,29 +1,13 @@
-# Bienvenido a mi sitio de documentación
+# Santiago Mondragon Ramirez
 
----
+19 años
 
-Este es un proyecto hecho con [_DocPress_](https://docpress.github.io/).
+27/06/2003
 
-_DocPress_ es una herramienta que sirve para generar micrositios de documentación.
+Color favorito: azul cian
 
-Nosotros escribimos la documentación en formato _markdown_ y _DocPress_ la convierte a código _HTML_.
+[_Github](https://github.com/SantiDEV2)
 
-Para trabajar con _DocPress_ necesitamos tener instalado [_Node.js_](https://nodejs.org/en/).
+Soy un estudiante de Amerike estudiando la carrera de creacion de videojuegos, me apasiona mucho la creacion de todas las locuras de mi mente entonces estoy aprendiendo para poder cumplir esto
 
-Una vez instalado _Node_, ejecutamos el siguiente comando para descargar _DocPress_:
-
-```bash
-npm install -g docpress
-```
-
-Para ejecutar el servidor de desarrollo de _DocPress_ ejecutamos el comando:
-
-```bash
-docpress serve
-```
-
-Para compilar y construir el sitio web ejecutamos el comando:
-
-```bash
-docpress b
-```
+![Photo](https://media.discordapp.net/attachments/948289759120351302/1022522600334823424/31896423-714D-4D42-BE2F-62B7CE28F12E.jpg)

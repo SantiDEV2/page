@@ -1,9 +1,27 @@
-- [Portada](../README.md)
+- [Prueba](../prueba.md)
+
 - Getting Started
   - [Introduction](./getting-started/introduction.md)
   - [Downloads](./getting-started/download.md)
   - [Contents](./getting-started/contents.md)
+  - [Series](./series/serie.md)
 - Components
   - [Alerts](./components/alerts.md)
   - [Accordion](./components/accordion.md)
   - [Buttons](./components/buttons.md)
+- Series
+  - [TheGoodDoctor](./series/serie.md)
+  - [LostInSpace](./series/serie2.md)
+  - [TheOffice](./series/serie3.md)
+- Peliculas
+  - [TheTheoryOfEverything](./series/pelicula.md)
+  - [TheGreatestShowman](./series/pelicula2.md) 
+  - [TheGreatGatsby](./series/pelicula.md)
+- Libros 
+  -[ElPrincipito](./libros/libro.md)
+  -[Los juegos del Hambre](./libros/libro.md)
+  -[La teoria del todo](./libros/libro.md)
+- Videojuegos
+  -[Ark](./videojuegos/vd.md)
+  -[Cod](./videojuegos/vd2.md)
+  -[Astroneer](./videojuegos/vd3.md)
